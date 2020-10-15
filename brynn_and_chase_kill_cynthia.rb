@@ -3,7 +3,8 @@ stabbings = 0
 cynthia_dies = 24
 
 while stabbings <= cynthia_dies do
-  puts "Brynn and Chase have stabbed Cynthia #{stabbings} times, but she is still alive"
+  puts "Brynn and Chase have stabbed Cynthia #{stabbings} times, but she is still alive."
+  puts "Brynn and Chase stab her again."
   stabbings += 1
 end
 
